@@ -24,3 +24,9 @@ Lancer l'injecteur, cliqué sur Select il et sélectionné GTA5.exe (Attendre d'
 Cliqué sur Add DLL et séléctionné le fichier YimMenu.dll.
 
 Apuuyer sur inject 
+
+# Disclaimer
+
+Ce projet est fourni à des fins éducatives uniquement. L'objectif est de partager des connaissances et des outils pour l'apprentissage et l'expérimentation. En aucun cas, ce projet ne doit être utilisé pour des activités illégales, malveillantes ou non éthiques.
+
+Responsabilité : Chaque personne qui utilise, modifie ou distribue ce projet est seule responsable de ses actions. L'auteur de ce projet décline toute responsabilité quant à l'utilisation qui en est faite par des tiers.
