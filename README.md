@@ -2,7 +2,7 @@
 
 Ce mod menu n'est pas le mien il vient de YimMenu
 
-Versio : 1.69
+Version : 1.69
 
 # Installation
 
